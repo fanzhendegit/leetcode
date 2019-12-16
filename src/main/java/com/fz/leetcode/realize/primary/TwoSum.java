@@ -1,11 +1,7 @@
-package com.fz.leetcode.realize;
+package com.fz.leetcode.realize.primary;
 
-import com.fz.leetcode.ApplicationOne;
-import org.springframework.boot.SpringApplication;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.lang.reflect.Array;
+import java.util.*;
 
 /**
  * @Author: fanzhen
