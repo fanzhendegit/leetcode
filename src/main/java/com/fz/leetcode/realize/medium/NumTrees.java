@@ -4,6 +4,8 @@ package com.fz.leetcode.realize.medium;
  * @Author: fanzhen
  * @Date: 2019/12/19 10:52
  * @Version 2.0.0
+ *
+ * 给定一个整数 n，求以 1 ... n 为节点组成的二叉搜索树有多少种？
  */
 public class NumTrees {
 

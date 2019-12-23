@@ -8,6 +8,8 @@ import java.util.List;
  * @Author: fanzhen
  * @Date: 2019/12/19 11:00
  * @Version 2.0.0
+ *
+ * 验证一棵树是否是二叉搜索树
  */
 public class IsValidBST {
 
@@ -25,7 +27,7 @@ public class IsValidBST {
             if(root.val<=pre){
                 return false;
             }
-            
+
             /*
                 中序遍历的使用，前一个节点小于后一个节点
              */

@@ -49,7 +49,7 @@ public class WordExist {
                 }
 
                 /*
-                    如果标记位为true进入递归
+                    如果标记位为false进入递归
                  */
                 if(inArea(row-1, col)&&!marked[row-1][col]){
                     if(existWord(board, wordArr, row-1, col, length)){
