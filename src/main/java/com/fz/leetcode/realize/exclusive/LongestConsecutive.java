@@ -8,6 +8,9 @@ import java.util.Set;
  * @Author: fanzhen
  * @Date: 2019/12/19 16:09
  * @Version 2.0.0
+ *
+ * 最长连续序列
+ * 给定一个未排序的整数数组，找出最长连续序列的长度。
  */
 public class LongestConsecutive {
 

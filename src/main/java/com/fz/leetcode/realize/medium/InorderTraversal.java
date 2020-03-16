@@ -12,7 +12,7 @@ import java.util.List;
  *
  * 中序遍历
  *
- * 给定一个二叉树，返回它的中序 遍历。
+ * 给定一个二叉树，返回它的中序遍历。
  */
 public class InorderTraversal {
 

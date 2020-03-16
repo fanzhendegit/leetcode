@@ -41,5 +41,6 @@ public class UniquePaths {
     public static void main(String[] args) {
         System.out.println(new UniquePaths().uniquePaths(10,10));
         System.out.println(new UniquePaths().uniquePaths(1,3));
+        System.out.println(String.format("Cannot get agvType:%s from evo-rcs-basic!","Me"));
     }
 }
